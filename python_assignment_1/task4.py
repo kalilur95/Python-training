@@ -3,7 +3,7 @@
 n=int(input())
 p=True
 
-#prime valiadation
+#prime validation
 
 if n<2 :
 	print('Invalid')
